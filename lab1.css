@@ -1,0 +1,46 @@
+/* p{
+    color: aqua;
+}
+#Special{
+    background-color: brown;
+}
+div.para{
+    color: blueviolet;
+}
+ul>li{
+    color: burlywood;
+}
+li+li{
+    color: blueviolet;
+}
+li#fav-movie+li{
+    background-color: bisque;
+}
+li~li{
+    color: red;
+}
+li#fav-movie~li{
+    color: chartreuse;
+}
+nav a:link{
+    color:brown;
+    text-decoration: none;
+}
+nav a:visited{
+    color: chocolate;
+}
+nav a:hover{
+    color:green;
+}
+nav a:active{
+    color: whitesmoke;
+}
+ul li:first-child{
+    color: whitesmoke;
+}
+ul li:last-child{
+    color: blue;
+} */
+ul li:nth-child(2n+2){
+    color: fuchsia;
+}
